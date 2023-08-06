@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: IMD0913
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: IMD0913 - Blockchain e Aplicações Descentralizadas
 ---
 
 # [IMD0913] Blockchain e Aplicações Descentralizadas
