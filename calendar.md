@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calendar
-description: Listing of course modules and topics.
+title: Calendário
+description: Módulos e tópicos do curso.
 ---
 
-# Calendar
+# Calendário
 
 {% for module in site.modules %}
 {{ module }}

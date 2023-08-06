@@ -1,11 +1,11 @@
 ---
-name: Kevin Lin
-role: Instructor
-email: me@example.com
-website: https://kevinl.info
+name: Danilo Curvelo
+role: Professor
+email: danilocurvelo@imd.ufrn.br
+website: #
 photo: kevin.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Atendimento: 246M
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
