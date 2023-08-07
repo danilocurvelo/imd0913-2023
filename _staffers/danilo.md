@@ -3,9 +3,9 @@ name: Danilo Curvelo
 role: Instructor
 email: danilocurvelo@imd.ufrn.br
 website: #
-photo: kevin.jpg
+photo: danilo.png
 meta:
-  Atendimento: 246M
+  Atendimento: 24M / 35T
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
