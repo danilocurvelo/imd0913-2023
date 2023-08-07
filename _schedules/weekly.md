@@ -29,6 +29,7 @@ schedule:
         location: IMD/A216
   - name: Terça
     events:
+      -
       - name: Aula
         start: 5:00 PM
         end: 6:30 PM
@@ -42,6 +43,7 @@ schedule:
         location: IMD/A216
   - name: Quinta
     events:
+      -
       - name: Aula
         start: 5:00 PM
         end: 6:30 PM
