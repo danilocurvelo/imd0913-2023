@@ -8,4 +8,4 @@ meta:
   Atendimento: 24M / 35T
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Agende um atendimento](mailto:danilocurvelo@imd.ufrn.br){: .btn .btn-outline }
