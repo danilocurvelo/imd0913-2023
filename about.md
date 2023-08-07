@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Sobre
 description: >-
-    Course policies and information.
+    Informações relacionadas ao curso.
 ---
 
-# About
+# Sobre
 {:.no_toc}
 
 ## Table of contents
@@ -16,18 +16,32 @@ description: >-
 
 ---
 
-## About
+## Introdução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Bem vindo ao curso **Blockchain e Aplicações Descentralizadas** (IMD0913) oferecido pelo Instituto Metrópole Digital no semestre 2023.2.
 
-## Lecture
+Este curso foi desenvolvido para fornecer aos alunos uma visão geral de tópicos relevantes sobre a tecnologia conhecida como blockchain, bem como experiência prática no desenvolvimento e na implantação de seus próprios contratos inteligentes e aplicações descentralizadas.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+Blockchain é atualmente uma das indústrias que mais crescem no setor de tecnologia. Em resposta a essa escassez de desenvolvedores de blockchain, este curso visa ensinar aos alunos os fundamentos técnicos de blockchains, linguagem de programação Solidity, ecossistema Bitcoin e Ethereum, bem como ferramentas relevantes para a área, de modo que os alunos estar equipado com experiência relevante no setor em um ambiente acessível e colaborativo. Esperamos que, por meio deste curso, os alunos se tornem mais confiantes em sua capacidade de desenvolver e implantar soluções baseadas em blockchain em questões importantes do setor.
 
-## Resources
+## Formato
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+O curso será dividido em duas partes. A primeira metade do curso fornecerá uma visão geral abrangente da tecnologia blockchain, tendo como estudo de caso o protocolo Bitcoin. Sem seguida, nos aprofundaremos no Ethereum e seus contratos inteligentes.  Neste processo, você aprenderá como escrever seu próprio contrato inteligente e interfaces dApp usando um ecossistema de ferramentas de desenvolvedor blockchain.
 
-## Assignments
+Cada tópico também será dividido em duas partes. Em um primeiro momento teremos aula expositiva sobre os temas planejados para aquele momento. Em seguida, nos concentrarmos em mais trabalhos práticos de desenvolvimento.
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+## Pré-requisitos
+
+Como pré-requisito, este curso exigirá algum nível de compreensão dos conceitos fundamentais da computação. A conclusão de disciplinas de programação ou experiência relevante em programação é altamente recomendada.
+
+Aproximadamente metade do curso será focado no desenvolvimento de um protótipo de blockchain utilizando a linguagem de programação Python. A outra metade será focada no ensino de Solidity (semelhante ao JavaScript) e no uso de tecnologias de desenvolvimento web (HTML, CSS e Javascript ou outros frameworks/bibliotecas de front-end). Não exigimos nenhuma experiência anterior com nenhuma dessas linguagens, mas planeje alocar algum tempo extra para adquiri-la, caso você nunca tenha usado uma determinada linguagem de programação antes (com exceção de Solidity que veremos com mais detalhes).
+
+## Avaliação
+
+Este curso usa uma metodologia de avaliação baseada principalmente na conclusão e participação nas aulas. Para obterem sucesso no curso, os alunos precisarão realizar as atividades avaliativas e concluir o projeto final.
+
+## Recursos
+
+[Mastering Ethereum, por Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook)
+
+[Ethereum Whitepaper](https://ethereum.org/en/whitepaper)
