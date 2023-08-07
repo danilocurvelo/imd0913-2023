@@ -29,13 +29,15 @@ schedule:
         location: IMD/A216
   - name: Terça
     events:
-      -
+      - name: Atendimento
+        start: 3:30 PM
+        end: 5:00 PM
+        location: IMD/A216
       - name: Aula
         start: 5:00 PM
         end: 6:30 PM
         location: A304
   - name: Quarta
-    events:
     events:
       - name: Atendimento
         start: 9:30 AM
@@ -43,15 +45,14 @@ schedule:
         location: IMD/A216
   - name: Quinta
     events:
-      -
+      - name: Atendimento
+        start: 3:30 PM
+        end: 5:00 PM
+        location: IMD/A216
       - name: Aula
         start: 5:00 PM
         end: 6:30 PM
         location: A304
   - name: Sexta
     events:
-      - name: Atendimento
-        start: 9:30 AM
-        end: 11:00 AM
-        location: IMD/A216
 ---
