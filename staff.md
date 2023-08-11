@@ -6,8 +6,6 @@ description: Uma lista de todos os membros da equipe docente.
 
 # Equipe
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
-
 ## Professor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
