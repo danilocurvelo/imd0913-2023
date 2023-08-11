@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Agenda
+nav_order: 5
 description: A agenda semanal do curso.
 ---
 

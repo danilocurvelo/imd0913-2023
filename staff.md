@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Equipe
+nav_order: 6
 description: Uma lista de todos os membros da equipe docente.
 ---
 

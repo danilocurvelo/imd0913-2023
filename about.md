@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sobre
+nav_order: 4
 description: >-
     Informações relacionadas ao curso.
 ---
