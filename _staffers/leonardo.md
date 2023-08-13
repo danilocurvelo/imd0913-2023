@@ -1,9 +1,9 @@
 ---
-name: Leonardo
+name: Leonardo Cabral
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: cabralleonardoferreira@gmail.com
+website: #
+photo: leonardo.png
 ---
 
 Doutorando

@@ -9,7 +9,7 @@ seo:
   name: IMD0913
 ---
 
-# Blockchain for Developers
+# IMD0913 - Blockchain e Aplicações Descentralizadas
 
 Bem vindo ao curso **Blockchain e Aplicações Descentralizadas** (IMD0913) oferecido pelo [Instituto Metrópole Digital](http://imd.ufrn.br) no semestre 2023.2.
 
