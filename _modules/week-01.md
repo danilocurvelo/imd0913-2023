@@ -3,7 +3,7 @@ week: 1
 title: Introdução a Tecnologia Blockchain
 ---
 
-16/08
+17/08
 : **Conteúdo**{: .label .label-yellow } Apresentação do Curso
   : [Slides](#)
     <!-- : [Recording](https://youtu.be/tYbL0r3Mtck) -->
@@ -12,7 +12,7 @@ title: Introdução a Tecnologia Blockchain
 : **Bibliografia**{: .label .label-green } Mastering Ethereum *por A. Antonopoulos*
   : [Link](https://github.com/ethereumbook/ethereumbook)
 
-21/08
+22/08
 : **Conteúdo**{: .label .label-yellow } O protocolo Bitcoin: visão geral
   : [Slides](#)
     <!-- : [Recording](https://youtu.be/tYbL0r3Mtck) -->

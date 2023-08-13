@@ -43,6 +43,16 @@ Este curso usa uma metodologia de avaliação baseada principalmente na conclus�
 
 ## Recursos
 
+[Mastering Bitcoin, por Andreas M. Antonopoulos](https://github.com/bitcoinbook/bitcoinbook)
+
 [Mastering Ethereum, por Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook)
 
 [Ethereum Whitepaper](https://ethereum.org/en/whitepaper)
+
+[Learn Me a Bitcoin, por Greg Walker](https://learnmeabitcoin.com/)
+
+[Blockchain Explorer](https://www.blockchain.com/explorer)
+
+[Documentação Solidity](https://docs.soliditylang.org/)
+
+[Remix IDE](https://remix.ethereum.org/)
