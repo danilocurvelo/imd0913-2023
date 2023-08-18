@@ -5,7 +5,7 @@ title: Introdução a Tecnologia Blockchain
 
 17/08
 : **Conteúdo**{: .label .label-yellow } Apresentação do Curso
-  : [Slides](#)
+  : [Slides](https://github.com/danilocurvelo/imd0913-2023/blob/4c4c85ca209173d787cfc0849b7c37abf2b8f97c/slides/00-presentation.pdf)
 : **Bibliografia**{: .label .label-green } Mastering Bitcoin *por A. Antonopoulos*
   : [Link](https://github.com/bitcoinbook/bitcoinbook)
 : **Bibliografia**{: .label .label-green } Mastering Ethereum *por A. Antonopoulos*
