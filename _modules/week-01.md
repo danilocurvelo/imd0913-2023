@@ -13,7 +13,7 @@ title: Introdução a Tecnologia Blockchain
 
 22/08
 : **Conteúdo**{: .label .label-yellow } O protocolo Bitcoin: visão geral
-  : [Slides](#)
+  : [Slides](https://github.com/danilocurvelo/imd0913-2023/blob/main/slides/01-bitcoin-overview.pdf)
 : **Bibliografia**{: .label .label-green } Mastering Bitcoin
   : [1](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc), [2](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc)
 : **Extra**{: .label .label-red } White paper *por Satoshi Nakamoto*
