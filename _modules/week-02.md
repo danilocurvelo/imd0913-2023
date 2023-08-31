@@ -10,7 +10,11 @@ title: Arquitetura de um Blockchain
   : [4](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc)
 : **Extra**{: .label .label-red } SHA256 Online
   : [Link](https://andersbrownworth.com/blockchain/hash)
-: **Extra**{: .label .label-red } Biblioteca *hashlib*
-  : [Link](https://docs.python.org/3/library/hashlib.html)
+
+31/08
 : **Lab**{: .label .label-blue } 01-hashing
   : [Github Classroom](#)
+: **Extra**{: .label .label-red } Biblioteca *hashlib*
+  : [Link](https://docs.python.org/3/library/hashlib.html)
+: **Extra**{: .label .label-red } Guia GitHub Codespaces
+  : [Link](https://docs.github.com/pt/codespaces/getting-started/quickstart)
