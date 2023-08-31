@@ -13,7 +13,7 @@ title: Arquitetura de um Blockchain
 
 31/08
 : **Lab**{: .label .label-blue } 01-hashing
-  : [Github Classroom](#)
+  : [Github Classroom](https://classroom.github.com/a/mrWt7jcx)
 : **Extra**{: .label .label-red } Biblioteca *hashlib*
   : [Link](https://docs.python.org/3/library/hashlib.html)
 : **Extra**{: .label .label-red } Guia GitHub Codespaces
