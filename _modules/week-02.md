@@ -31,7 +31,7 @@ title: Arquitetura de um Blockchain
 
 12/09
 : **Lab**{: .label .label-blue } 02-blocks
-  : [Github Classroom](#)
+  : [Github Classroom](https://classroom.github.com/a/3rZSasOR)
 : **Extra**{: .label .label-red } Timestamps em Python
   : [Link](https://docs.python.org/3/library/time.html)
 : **Extra**{: .label .label-red } Dicionários em Python
