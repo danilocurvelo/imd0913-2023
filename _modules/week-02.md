@@ -36,3 +36,13 @@ title: Arquitetura de um Blockchain
   : [Link](https://docs.python.org/3/library/time.html)
 : **Extra**{: .label .label-red } Dicionários em Python
   : [Link](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
+
+14/09
+: **Conteúdo**{: .label .label-yellow } Arquitetura de um Blockchain: Rede e Mempool
+  : [Slides](https://github.com/danilocurvelo/imd0913-2023/raw/main/slides/05-blockchain-architecture-network-mempool.pdf)
+: **Bibliografia**{: .label .label-green } Mastering Bitcoin
+  : [8](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc)
+: **Extra**{: .label .label-red } Bitcoin Mempool Space
+  : [Link](https://mempool.space/pt/)
+: **Extra**{: .label .label-red } Bitcoin Charts
+  : [Link](https://www.blockchain.com/charts)
