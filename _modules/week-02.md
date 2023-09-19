@@ -46,3 +46,11 @@ title: Arquitetura de um Blockchain
   : [Link](https://mempool.space/pt/)
 : **Extra**{: .label .label-red } Bitcoin Charts
   : [Link](https://www.blockchain.com/charts)
+
+19/09
+: **Conteúdo**{: .label .label-yellow } Arquitetura de um Blockchain: Consenso (PoW)
+  : [Slides](https://github.com/danilocurvelo/imd0913-2023/raw/main/slides/06-blockchain-architecture-consensus.pdf)
+: **Bibliografia**{: .label .label-green } Mastering Bitcoin
+  : [10](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc)
+: **Extra**{: .label .label-red } EMail Satoshi Nakamoto: PoW
+  : [Link](https://www.mail-archive.com/cryptography@metzdowd.com/msg09997.html)
