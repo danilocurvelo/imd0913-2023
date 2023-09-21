@@ -54,3 +54,12 @@ title: Arquitetura de um Blockchain
   : [10](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc)
 : **Extra**{: .label .label-red } EMail Satoshi Nakamoto: PoW
   : [Link](https://www.mail-archive.com/cryptography@metzdowd.com/msg09997.html)
+
+21/09
+: **Lab**{: .label .label-blue } 03-pow
+  : [Github Classroom](#)
+: **Extra**{: .label .label-red } Mineração
+  : [Link](https://learnmeabitcoin.com/technical/mining)
+: **Bibliografia**{: .label .label-green } Mastering Bitcoin
+  : [10](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc)
+
