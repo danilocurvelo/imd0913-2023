@@ -57,7 +57,7 @@ title: Arquitetura de um Blockchain
 
 21/09
 : **Lab**{: .label .label-blue } 03-pow
-  : [Github Classroom](#)
+  : [Github Classroom](https://classroom.github.com/a/jhek5ZYc)
 : **Extra**{: .label .label-red } Mineração
   : [Link](https://learnmeabitcoin.com/technical/mining)
 : **Bibliografia**{: .label .label-green } Mastering Bitcoin
