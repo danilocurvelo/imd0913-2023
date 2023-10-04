@@ -64,7 +64,7 @@ title: Arquitetura de um Blockchain
   : [10](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc)
 
 26/09
-: **Conteúdo**{: .label .label-yellow } Outros Mecanismos e Consenso
+: **Conteúdo**{: .label .label-yellow } Outros Mecanismos de Consenso
   : [Slides](https://github.com/danilocurvelo/imd0913-2023/raw/main/slides/07-blockchain-architecture-consensus-advanced.pdf)
 
 28/09
