@@ -63,3 +63,26 @@ title: Arquitetura de um Blockchain
 : **Bibliografia**{: .label .label-green } Mastering Bitcoin
   : [10](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc)
 
+26/09
+: **Conteúdo**{: .label .label-yellow } Outros Mecanismos e Consenso
+  : [Slides](https://github.com/danilocurvelo/imd0913-2023/raw/main/slides/07-blockchain-architecture-consensus-advanced.pdf)
+
+28/09
+: **Conteúdo**{: .label .label-yellow } Arquitetura de um Blockchain: Assinaturas Digitais
+  : [Slides](https://github.com/danilocurvelo/imd0913-2023/raw/main/slides/08-blockchain-architecture-signatures.pdf)
+: **Bibliografia**{: .label .label-green } Mastering Bitcoin
+  : [4](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc)
+: **Extra**{: .label .label-red } Validação de assinaturas Bitcoin
+  : [Link](https://www.verifybitcoinmessage.com/)
+
+05/10
+: **Conteúdo**{: .label .label-yellow } Arquitetura de um Blockchain: Carteiras (*wallets*)
+  : [Slides](https://github.com/danilocurvelo/imd0913-2023/raw/main/slides/09-blockchain-architecture-wallets.pdf)
+: **Bibliografia**{: .label .label-green } Mastering Bitcoin
+  : [5](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc)
+: **Extra**{: .label .label-red } Paper Wallet
+  : [Link](https://bitcoinpaperwallet.com/)
+: **Extra**{: .label .label-red } Exchanges
+  : [Link](https://bitcoin.org/en/exchanges#south-america)
+: **Extra**{: .label .label-red } Escolha sua carteira
+  : [Link](https://bitcoin.org/pt_BR/escolha-sua-carteira)
