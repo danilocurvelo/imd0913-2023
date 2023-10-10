@@ -86,3 +86,13 @@ title: Arquitetura de um Blockchain
   : [Link](https://bitcoin.org/en/exchanges#south-america)
 : **Extra**{: .label .label-red } Escolha sua carteira
   : [Link](https://bitcoin.org/pt_BR/escolha-sua-carteira)
+
+10/10
+: **Conteúdo**{: .label .label-yellow } Arquitetura de um Blockchain: Transações
+  : [Slides](https://github.com/danilocurvelo/imd0913-2023/raw/main/slides/10-blockchain-architecture-transactions.pdf)
+: **Bibliografia**{: .label .label-green } Mastering Bitcoin
+  : [6](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc)
+: **Extra**{: .label .label-red } Tx Demo
+  : [Link](http://royalforkblog.github.io/2014/11/20/txn-demo/)
+: **Extra**{: .label .label-red } Tx Data
+  : [Link](https://learnmeabitcoin.com/technical/transaction-data)
