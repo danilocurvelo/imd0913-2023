@@ -96,3 +96,11 @@ title: Arquitetura de um Blockchain
   : [Link](http://royalforkblog.github.io/2014/11/20/txn-demo/)
 : **Extra**{: .label .label-red } Tx Data
   : [Link](https://learnmeabitcoin.com/technical/transaction-data)
+
+12/10
+: **Conteúdo**{: .label .label-yellow } Arquitetura de um Blockchain: Script Bitcoin
+  : [Slides](https://github.com/danilocurvelo/imd0913-2023/raw/main/slides/11-blockchain-architecture-script-bitcoin.pdf)
+: **Bibliografia**{: .label .label-green } Mastering Bitcoin
+  : [6](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc) e [7](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc)
+: **Extra**{: .label .label-red } Referência da linguagem Script
+  : [Link](https://en.bitcoin.it/wiki/Script)
