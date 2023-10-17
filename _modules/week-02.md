@@ -104,3 +104,9 @@ title: Arquitetura de um Blockchain
   : [6](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc) e [7](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc)
 : **Extra**{: .label .label-red } Referência da linguagem Script
   : [Link](https://en.bitcoin.it/wiki/Script)
+
+17/10
+: **Lab**{: .label .label-blue } 05-transactions
+  : [Github Classroom](https://classroom.github.com/a/8ke_hN2x)
+: **Extra**{: .label .label-red } Merkle Root
+  : [Link](https://learnmeabitcoin.com/technical/merkle-root)
