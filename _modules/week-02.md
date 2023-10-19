@@ -110,3 +110,13 @@ title: Arquitetura de um Blockchain
   : [Github Classroom](https://classroom.github.com/a/8ke_hN2x)
 : **Extra**{: .label .label-red } Merkle Root
   : [Link](https://learnmeabitcoin.com/technical/merkle-root)
+
+19/10
+: **Conteúdo**{: .label .label-yellow } Arquitetura de um Blockchain: Nós e forks
+  : [Slides](https://github.com/danilocurvelo/imd0913-2023/raw/main/slides/12-blockchain-architecture-nodes-and-forks.pdf)
+: **Bibliografia**{: .label .label-green } Mastering Bitcoin
+  : [8](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc) e [10](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc)
+: **Extra**{: .label .label-red } Cliente Bitcoin Core
+  : [Link](https://bitcoin.org/en/download)
+: **Lab**{: .label .label-blue } 06-consensus
+  : [Github Classroom](https://classroom.github.com/a/8ke_hN2x) até 31/10
