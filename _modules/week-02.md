@@ -119,4 +119,4 @@ title: Arquitetura de um Blockchain
 : **Extra**{: .label .label-red } Cliente Bitcoin Core
   : [Link](https://bitcoin.org/en/download)
 : **Lab**{: .label .label-blue } 06-consensus
-  : [Github Classroom](https://classroom.github.com/a/8ke_hN2x) até 31/10
+  : [Github Classroom](https://classroom.github.com/a/LjrqFr82) até 31/10
