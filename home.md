@@ -21,4 +21,4 @@ Você pode usar a barra de navegação à esquerda para encontrar detalhes da di
 
 ## Último material ([ver todos](calendar))
 
-{{ site.modules[1] }}
+{{ site.modules[2] }}
