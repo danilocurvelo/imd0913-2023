@@ -27,11 +27,11 @@ title: Ethereum
 : **Exemplo**{: .label .label-blue } Exemplos Solidity
   : [Github](https://github.com/danilocurvelo/solidity-workshop)
 : **Exemplo**{: .label .label-blue } HelloWorld.sol
-  : [Youtube](https://www.youtube.com/watch?v=ocO5XkdaIz8) [Source](https://www.youtube.com/watch?v=ocO5XkdaIz8)
+  : [Youtube](https://www.youtube.com/watch?v=ocO5XkdaIz8) [Source](https://github.com/danilocurvelo/imd0913-2023/tree/main/code/solidity)
 : **Exemplo**{: .label .label-blue } Coin.sol
-  : [Youtube](https://www.youtube.com/watch?v=nVy4dHSKL9Q)
+  : [Youtube](https://www.youtube.com/watch?v=nVy4dHSKL9Q) [Source](https://github.com/danilocurvelo/imd0913-2023/tree/main/code/solidity)
 : **Exemplo**{: .label .label-blue } Faucet.sol
-  : [Youtube](https://www.youtube.com/watch?v=Kp_DWi_KkGE)
+  : [Youtube](https://www.youtube.com/watch?v=Kp_DWi_KkGE) [Source](https://github.com/danilocurvelo/imd0913-2023/tree/main/code/solidity)
 : **Extra**{: .label .label-red } CryptoZombies
   : [Link](https://cryptozombies.io/)
 : **Extra**{: .label .label-red } Documentação Solidity
