@@ -24,8 +24,14 @@ title: Ethereum
   : [Link](https://remix.ethereum.org/)
 
 09/11
-: **Lab**{: .label .label-blue } Exemplos Solidity
+: **Exemplo**{: .label .label-blue } Exemplos Solidity
   : [Github](https://github.com/danilocurvelo/solidity-workshop)
+: **Exemplo**{: .label .label-blue } HelloWorld.sol
+  : [Youtube](https://www.youtube.com/watch?v=ocO5XkdaIz8) [Source](https://www.youtube.com/watch?v=ocO5XkdaIz8)
+: **Exemplo**{: .label .label-blue } Coin.sol
+  : [Youtube](https://www.youtube.com/watch?v=nVy4dHSKL9Q)
+: **Exemplo**{: .label .label-blue } Faucet.sol
+  : [Youtube](https://www.youtube.com/watch?v=Kp_DWi_KkGE)
 : **Extra**{: .label .label-red } CryptoZombies
   : [Link](https://cryptozombies.io/)
 : **Extra**{: .label .label-red } Documentação Solidity
