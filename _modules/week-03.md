@@ -38,3 +38,7 @@ title: Ethereum
   : [Link](https://docs.soliditylang.org/)
 : **Extra**{: .label .label-red } IDE Remix
   : [Link](https://remix.ethereum.org/)
+
+14/11
+: **Lab**{: .label .label-blue } 07-smart-contracts
+  : [Github Classroom](https://classroom.github.com/a/I3GwPf3z)
