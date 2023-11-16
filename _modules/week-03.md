@@ -48,3 +48,7 @@ title: Ethereum
   : [Slides](https://github.com/danilocurvelo/imd0913-2023/raw/main/slides/15-tokens.pdf)
 : **Extra**{: .label .label-red } OpenZeppelin
   : [Link](https://github.com/OpenZeppelin/openzeppelin-contracts)
+: **Lab**{: .label .label-blue } 08-tokens
+  : [Github Classroom](https://classroom.github.com/a/wW1aQhd7)
+
+  
