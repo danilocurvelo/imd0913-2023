@@ -42,3 +42,9 @@ title: Ethereum
 14/11
 : **Lab**{: .label .label-blue } 07-smart-contracts
   : [Github Classroom](https://classroom.github.com/a/I3GwPf3z)
+
+16/11
+: **Conteúdo**{: .label .label-yellow } Tokens
+  : [Slides](https://github.com/danilocurvelo/imd0913-2023/raw/main/slides/15-tokens.pdf)
+: **Extra**{: .label .label-red } OpenZeppelin
+  : [Link](https://github.com/OpenZeppelin/openzeppelin-contracts)
