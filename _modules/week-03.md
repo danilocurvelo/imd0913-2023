@@ -51,4 +51,13 @@ title: Ethereum
 : **Lab**{: .label .label-blue } 08-tokens
   : [Github Classroom](https://classroom.github.com/a/wW1aQhd7)
 
+23/11
+: **Conteúdo**{: .label .label-yellow } DApps
+  : [Slides](https://github.com/danilocurvelo/imd0913-2023/raw/main/slides/16-dapps.pdf)
+: **Extra**{: .label .label-red } OpenZeppelin
+  : [Link](https://github.com/OpenZeppelin/openzeppelin-contracts)
+: **Extra**{: .label .label-red } DApp Rifa
+  : [Link](https://github.com/danilocurvelo/dapp-rifa)
+: **Projeto final**{: .label .label-blue } 08-tokens
+  : [Github](https://github.com/danilocurvelo/imd0913-2023/blob/main/projeto-final-dapp/README.md)
   
