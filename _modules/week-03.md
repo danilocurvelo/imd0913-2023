@@ -58,6 +58,6 @@ title: Ethereum
   : [Link](https://github.com/OpenZeppelin/openzeppelin-contracts)
 : **Extra**{: .label .label-red } DApp Rifa
   : [Link](https://github.com/danilocurvelo/dapp-rifa)
-: **Projeto final**{: .label .label-blue } 08-tokens
+: **Projeto final**{: .label .label-blue } Projeto Final
   : [Github](https://github.com/danilocurvelo/imd0913-2023/blob/main/projeto-final-dapp/README.md)
   
